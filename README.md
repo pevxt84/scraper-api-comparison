@@ -56,16 +56,15 @@ https://api.scraperapi.com?api_key=YOUR_KEY&url=TARGET_URL&screenshot=true
 
 ## 全套餐对比
 
-| 套餐 | 月调用额度 | 并发数 | 价格（月付） | 操作 |
-|------|--------|-------------|------|
-| 免费版 | 1,000次 | 5 | 免费 |  [免费注册领取额度](https://www.scraperapi.com/?fp_ref=coupons) |
-| 入门版 Hobby | 250,000次 | 5 | $49/月 |  [开通入门版](https://www.scraperapi.com/?fp_ref=coupons) |
-| 专业版 Startup | 1,000,000次 | 10 | $149/月 |  [开通专业版](https://www.scraperapi.com/?fp_ref=coupons) |
-| 商业版  Business | 3,000,000次 | 25 | $299/月 |  [开通商业版](https://www.scraperapi.com/?fp_ref=coupons) |
-| 企业版 Enterprise | 自定义 | 自联系报价 |  [咨询企业版方案](https://www.scraperapi.com/?fp_ref=coupons) |
+| 套餐              | 月调用额度     | 并发数 | 价格（月付）   | 操作 |
+|-------------------|----------------|--------|----------------|------|
+| 免费版            | 1,000次       | 5      | 免费           | [免费注册领取额度](https://www.scraperapi.com/?fp_ref=coupons) |
+| 入门版 Hobby      | 250,000次     | 5      | $49/月         | [开通入门版](https://www.scraperapi.com/?fp_ref=coupons) |
+| 专业版 Startup    | 1,000,000次   | 10     | $149/月        | [开通专业版](https://www.scraperapi.com/?fp_ref=coupons) |
+| 商业版 Business   | 3,000,000次   | 25     | $299/月        | [开通商业版](https://www.scraperapi.com/?fp_ref=coupons) |
+| 企业版 Enterprise | 自定义         | 自定义 | 联系报价       | [咨询企业版方案](https://www.scraperapi.com/?fp_ref=coupons) |
 
-注：截图请求会消耗更多调用额度（通常计为5-10次普通请求），购买前建议先用免费额度测试你的实际消耗量。年付方案有折扣，具体以官网实时价格为准。
-
+**注**：截图请求会消耗更多调用额度（通常计为5-10次普通请求），购买前建议先用免费额度测试你的实际消耗量。年付方案有折扣，具体以官网实时价格为准。
 ---
 
 ## FAQ：我收到最多的几个问题
