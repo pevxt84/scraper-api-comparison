@@ -65,6 +65,7 @@ https://api.scraperapi.com?api_key=YOUR_KEY&url=TARGET_URL&screenshot=true
 | 企业版 Enterprise | 自定义         | 自定义 | 联系报价       | [咨询企业版方案](https://www.scraperapi.com/?fp_ref=coupons) |
 
 **注**：截图请求会消耗更多调用额度（通常计为5-10次普通请求），购买前建议先用免费额度测试你的实际消耗量。年付方案有折扣，具体以官网实时价格为准。
+
 ---
 
 ## FAQ：我收到最多的几个问题
